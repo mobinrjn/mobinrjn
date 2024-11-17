@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mobinrjn
+- 👋 Hi, I’m Mobin Rajaeiyan
 - 👀 I’m interested in games :)
 - 🌱 I’m currently learning python and web development ( Html , Css , Javascript )
 - 💞️ I’m looking to collaborate on python program
