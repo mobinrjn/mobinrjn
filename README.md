@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mobinrjn
 - 👀 I’m interested in games :)
-- 🌱 I’m currently learning python and c++
+- 🌱 I’m currently learning python and web development ( Html , Css , Javascript )
 - 💞️ I’m looking to collaborate on python program
 - 📫 You can email me to reach me 
 
